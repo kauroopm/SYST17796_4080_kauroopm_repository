@@ -1,7 +1,15 @@
 package ArrayObjects;
 
 public class ArrayObjects {
+    private String Names; 
 
+    public String getNames() {
+        return Names;
+    }
+
+    public void setNames(String Names) {
+        this.Names = Names;
+    }
     public static void main(String[] args) {
         String myArray[] = new String[4];
         myArray[0] = "Dhoom";

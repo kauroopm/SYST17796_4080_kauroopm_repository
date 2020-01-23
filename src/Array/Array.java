@@ -11,5 +11,5 @@ public class Array {
         myArray[2] = "Dhoom3";
         myArray[3] = "Dhoom4";
         System.out.println(Arrays.toString(myArray));
-    }
+    } 
 }
