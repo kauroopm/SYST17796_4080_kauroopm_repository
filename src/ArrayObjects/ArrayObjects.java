@@ -1,5 +1,6 @@
 package ArrayObjects;
-
+// Today's date is January 28,2020
+// I am learning ArrayObjects
 public class ArrayObjects {
     private String Names; 
 
