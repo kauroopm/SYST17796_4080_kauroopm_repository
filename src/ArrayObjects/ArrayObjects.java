@@ -12,11 +12,10 @@ public class ArrayObjects {
         this.Names = Names;
     }
     public static void main(String[] args) {
-        String myArray[] = new String[4];
+        String myArray[] = new String[2];
         myArray[0] = "Dhoom";
         myArray[1] = "Dhoom2";
-        myArray[2] = "Dhoom3";
-        myArray[3] = "Dhoom4";
+        
         for (String myArray1 : myArray) {
             System.out.println(myArray1);
         }
